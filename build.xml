@@ -1,7 +1,12 @@
 <project>
+<<<<<<< HEAD
 
 
   <target name="clean">
+=======
+	
+    <target name="clean">
+>>>>>>> f9b3f196fc0d65abf015e3f9167ad844f897d98d
     <delete dir="build"/>
   </target>
 
