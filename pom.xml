@@ -4,9 +4,9 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>net.InPitch.project-group</groupId>
-  <artifactId>Project</artifactId>
-  <version>1.0</version>
+  <GroupId>io.packagecloud</GroupId>
+  <ArtifactId>java-test-package</ArtifactId>
+  <Version>2.0.0</Version>
 
   <name>InPitch</name>
   <!-- FIXME change it to the project's website -->
@@ -20,11 +20,9 @@
 
   <dependencies>
     
-    <Dependency>
-  <GroupId>io.packagecloud</GroupId>
-  <ArtifactId>java-test-package</ArtifactId>
-  <Version>2.0.0</Version>
-</Dependency>
+    <dependency>
+ 
+</dependency>
   </dependencies>
 
   <DistributionManagement>
