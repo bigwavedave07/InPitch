@@ -1,5 +1,9 @@
 <project>
-  <target name="clean">
+	<modelVersion> 1.0.0 </modelVersion>
+	<groupId> net.InPitch.java </groupId>
+	<artifactId>InPitch.1</artifactId>
+	<version>1.0-SNAPSHOT</version>
+    <target name="clean">
     <delete dir="build"/>
   </target>
 
